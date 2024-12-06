@@ -1,0 +1,2 @@
+Basics of Python,learn linux basics and commands, Jenkins.
+Aws and Cloud platfroms
