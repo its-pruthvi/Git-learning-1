@@ -1,0 +1,5 @@
+Basics of Python,learn linux basics and commands, Jenkins.
+Aws and Cloud platfroms
+Added tagging tool v1.0
+123456789
+# include stdio.h Cloud
